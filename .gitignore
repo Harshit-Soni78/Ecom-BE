@@ -64,6 +64,7 @@ python-version
 celerybeat-schedule
 # dotenv
 env
+.env*
 # virtualenv
 venv/
 # Spyder project settings
@@ -79,3 +80,6 @@ idea/
 vscode/
 # macOS specific files:
 DS_Store
+# Database and uploads for deployment
+local_db.sqlite
+uploads/
