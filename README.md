@@ -26,7 +26,7 @@ A FastAPI-based e-commerce backend API for BharatBazaar, built with SQLAlchemy a
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.12
 - MySQL or PostgreSQL database
 - Conda environment (recommended)
 
@@ -35,14 +35,14 @@ A FastAPI-based e-commerce backend API for BharatBazaar, built with SQLAlchemy a
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Harshit-Soni78/Ecom-BE.git
    cd ecom-be
    ```
 
 2. **Create and activate conda environment**
 
    ```bash
-   conda create -n ecom python=3.9
+   conda create -n ecom python=3.12
    conda activate ecom
    ```
 
