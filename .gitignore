@@ -1,4 +1,11 @@
+# *************** My Files ***************
+
+local_db.sqlite
+uploads/
 noPush/
+
+# *************** My Files ***************
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -81,5 +88,3 @@ vscode/
 # macOS specific files:
 DS_Store
 # Database and uploads for deployment
-local_db.sqlite
-uploads/
